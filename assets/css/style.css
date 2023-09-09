@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "sandikotaksatu";
+    src: url("https://tekpram.sandarscout.com/sandikotaksatu/assets/font/sandi-kotak-satu.ttf") format("truetype");
+    /*src: url(https://fonts.gstatic.com/s/benne/v10/L0xzDFAhn18E6Wj2nN8.woff2) format('woff2')*/
+}
+h3{
+    font-family: 'sandikotaksatu';
+    letter-spacing: 5px;
+}
+h4{
+    letter-spacing: 1rem;
+    color: green;
+}
